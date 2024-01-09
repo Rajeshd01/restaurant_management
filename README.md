@@ -15,3 +15,5 @@ RestaurantOwner.java : It has the functionalities of restaurant owner to add foo
 RestaurantApplication.java : This is the main class file which has the entire Restaurant Application. To execute the program, run this file.
 
 GST.java : Its an interface which defines the GST interest rate.
+
+@Rajesh D
