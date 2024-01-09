@@ -1,7 +1,7 @@
 
 /*
- * author : Satyapriya Raut
- * email : satyapriyaraut99@gmail.com
+ * author : Rajesh	
+ * email : rajeshd01042004@gmail.com
  */
 
 import java.util.Scanner;
@@ -135,7 +135,6 @@ class Operations {
 
 public class RestaurantApplication {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		RestaurantOwner owner = new RestaurantOwner();
 		Customer customer = new Customer();
 		Scanner sc = new Scanner(System.in);
