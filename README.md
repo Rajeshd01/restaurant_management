@@ -17,3 +17,11 @@ RestaurantApplication.java : This is the main class file which has the entire Re
 GST.java : Its an interface which defines the GST interest rate.
 
 @Rajesh D
+
+## Steps to Run
+ 
+ open poject directory
+
+1. compile the RestaurantApplication.java file
+
+2. Run the RestaurantApplication 
